@@ -1,0 +1,24 @@
+{
+    "name": "freshcube1/moysklad1",
+    "description": "Origin: https://github.com/Tooyz/moysklad. Modified: https://github.com/EugeneGpil/moysklad",
+    "require": {
+        "php": ">=5.6.0",
+        "guzzlehttp/guzzle": "^6.2.1"
+    },
+    "authors": [
+        {
+            "name": "Tooyz",
+            "email": "nikkoltz@mail.ru"
+        },
+        {
+            "name": "EugeneGpil",
+            "email": "gpilligrim@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "MoySklad\\": "src/"
+        }
+    },
+    "license": "MIT"
+}
